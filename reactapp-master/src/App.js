@@ -55,26 +55,26 @@ function App() {
   const [cars, setCars] =useState( [
     {
       id: 1,
-      title: "Porche Macan",
-      image: "https://pics.porsche.com/rtt/iris?COSY-EU-100-1713c6eK12UC31P3T5JOCU%25hjdmiTDDmvMXlHWguCuq6Q44RtRHo9ZAaDjIu5PqI7tGW3rNbZJNKXv9Z7KcQQ%25yFN5tFAsXrw4r3wo0qnqZr8MCnR4i84tV2YN2OmNyW1QGWgCWKMUuyO9I7KMDNjhQ5OC9gfN3dKymI4r3IfaFnqU3fk8LBC7wUhatmwZFHvf",
+      title: "Porche Cayenne",
+      image: "https://www.topgear.com/sites/default/files/cars-car/image/2019/06/pcgb18_0338_fine.jpg",
       description:
-        "In the new Macan GTS, the love of adrenaline is ignited by a 2.9-litre twin-turbo V6 engine producing 280kW (380PS).The new engine generation captivates with the power and sound typical of a sports car",
+        "The Cayenne and Cayenne Coupé: both boast a striking appearance and impressive performance, with up to five seats. Whether you prefer embarking upon your next adventure in the Cayenne",
       amount: 0,
     },
     {
       id: 2,
-      title: "Citroen C3",
-      image:"https://www.citroen.rs/wp-content/uploads/2016/06/1400x800_C31.jpg",
+      title: "Porsche Panamera",
+      image:"https://vrelegume.rs/wp-content/uploads/2020/08/2-24.jpg",
       description:
-        "The attitude and appearance of the new Citroën C3 emphasize dynamism and give extra power to this vehicle. Its robust forms are highlighted through new graphic elements and are inspired by the style of SUVs.",
+        "The Porsche Panamera is a mid/full-sized luxury car (E-segment/F-segment in Europe) manufactured by the German automobile manufacturer Porsche.",
       amount: 0,
     },
     {
       id: 3,
-      title: "Range Rover Sport",
-      image:"https://media.ed.edmunds-media.com/land-rover/range-rover-sport/2020/oem/2020_land-rover_range-rover-sport_4dr-suv_p400-hst_fq_oem_1_1280x855.jpg",
+      title: "Porsche Macan",
+      image:"https://autorepublika.com/wp-content/uploads/2021/09/porsche-macan.jpg",
       description:
-        "With sportier design cues and a powerful, muscular stance, Range Rover Sport is designed for impact. Cleaner, more dynamic, there’s a contemporary feel everywhere you look—from the Range Rover Sport grille, redesigned bonnet vents to the refined, yet sporty wheel options.",
+        "The Porsche Macan (Type 95B) is a high-performance five-door luxury crossover SUV produced by the German car manufacturer Porsche from 2014.",
       amount: 0,
     },
   ]);
